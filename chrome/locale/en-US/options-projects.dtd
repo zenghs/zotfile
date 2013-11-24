@@ -1,8 +1,8 @@
-<!ENTITY zotfile-tablet-subfolders-window "ZotFile Preferences">
-<!ENTITY configuration-subfolders "ZotFile - Configuration of Sub-Folders">
-<!ENTITY label "Label">
-<!ENTITY folder "Folder">
-<!ENTITY move-down "Move Down">
-<!ENTITY move-up "Move Up">
-<!ENTITY show-folder "Show Folder">
-<!ENTITY delete-folder "Delete Folder">
+<!ENTITY zotfile-tablet-subfolders-window "ZotFile 选项">
+<!ENTITY configuration-subfolders "ZotFile - 次级文件夹配置">
+<!ENTITY label "标签">
+<!ENTITY folder "文件夹">
+<!ENTITY move-down "下移">
+<!ENTITY move-up "上移">
+<!ENTITY show-folder "浏览文件夹">
+<!ENTITY delete-folder "删除文件夹">
