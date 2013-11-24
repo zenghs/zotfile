@@ -1,8 +1,8 @@
-<!ENTITY zotfile-attach-file.label "Attach New File">
-<!ENTITY zotfile-attach-file.tooltiptext "Move and attach last file in user defined folder to selected Zotero item">
-<!ENTITY zotfile-manage-attachments.label "Manage Attachments">
-<!ENTITY warning.label "Warning">
-<!ENTITY renameSelectedAttachments.label "Rename Attachments">
+<!ENTITY zotfile-attach-file.label "添加新文件">
+<!ENTITY zotfile-attach-file.tooltiptext "从用户预置的文件夹中移动和添加最新的文件到选中的Zotero条目">
+<!ENTITY zotfile-manage-attachments.label "管理附件">
+<!ENTITY warning.label "警告">
+<!ENTITY renameSelectedAttachments.label "附件更名">
 <!ENTITY renameSelectedAttachments.tooltiptext "Move and rename existing Attachments from selected Zotero item">
 <!ENTITY extract-annotations.label "Extract Annotations">
 <!ENTITY extract-annotations.tooltiptext "Extract Annotations and Highlighted Text from pdf file.">
